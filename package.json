@@ -1,0 +1,17 @@
+{
+  "name": "learn-graphql",
+  "version": "1.0.0",
+  "description": "A place to learn GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Wanamaker",
+  "license": "MIT",
+  "dependencies": {
+    "graphiql": "^1.4.1",
+    "graphql": "^15.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
